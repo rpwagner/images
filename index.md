@@ -1,5 +1,3 @@
-# Serverless Image Data Repository
-
 [Browse the catalog](catalog/)
 
 The Serverless Image Data Repository contains datasets of
