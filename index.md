@@ -3,6 +3,34 @@
 The Serverless Image Data Repository contains datasets of
 randomly-generated images.
 
+## Examples
+
+<table>
+	<tr>
+	<td>
+		<img src="https://g-079c7d.ca528.03c0.data.globus.org/public/unostentation-exhalation.png"
+		alt="random image" width="200"/> 
+	</td>
+	<td>
+		<img
+	src="https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png"
+	alt="random image" width="200"/> 
+	</td>
+</tr>
+<tr>
+<td>
+	<img
+	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-Gleditsia.png"
+	alt="random image" width="200"/> 
+	</td>
+	<td>
+	<img
+	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png"
+	alt="random image" width="200"/> 
+	</td>
+	</tr>
+</table>
+
 ## Data Access
 
 This repository demonstrates how to host dataset files in Globus collections while
@@ -60,30 +88,3 @@ dataset metadata is on Github in the [TomoBank
 repo](https://github.com/tomography/tomobank), users can submit new
 datasets through pull requests.
 
-## Examples
-
-<table>
-	<tr>
-	<td>
-		<img src="https://g-079c7d.ca528.03c0.data.globus.org/public/unostentation-exhalation.png"
-		alt="random image" width="200"/> 
-	</td>
-	<td>
-		<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png"
-	alt="random image" width="200"/> 
-	</td>
-</tr>
-<tr>
-<td>
-	<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-Gleditsia.png"
-	alt="random image" width="200"/> 
-	</td>
-	<td>
-	<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png"
-	alt="random image" width="200"/> 
-	</td>
-	</tr>
-</table>
