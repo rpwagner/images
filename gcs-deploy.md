@@ -157,10 +157,12 @@ NULL                                 | rw          | 89a5b977-7185-4c96-b9cd-8e6
 
 Previous
 ```
+6528bad5-bc02-497d-8a4f-a38547d0e72a:/serverless/
 https://g-b0978f.0ed28.75bc.data.globus.org/serverless/
 ```
 
 Alternate
 ```
+527fe9c0-5782-4a2a-a097-ea2f06fe68ab:/
 https://g-079c7d.ca528.03c0.data.globus.org/
 ```

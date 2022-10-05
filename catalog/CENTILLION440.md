@@ -25,7 +25,7 @@ Access to this dataset requires accepting terms and conditions. Join the Globus 
 [Request Access](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join)
 
 This dataset is available via Globus Transfer or HTTPS.
-[Click here](https://app.globus.org/file-manager?origin_id=527fe9c0-5782-4a2a-a097-ea2f06fe68aba&origin_path=/allusers/CENTILLION440/) to view the files in the Globus web app.
+[Click here](https://app.globus.org/file-manager?origin_id=527fe9c0-5782-4a2a-a097-ea2f06fe68ab&origin_path=/allusers/CENTILLION440/) to view the files in the Globus web app.
 
 
 ## Files

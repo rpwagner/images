@@ -22,7 +22,7 @@ Keywords: image
 ## Data Access
 This dataset is publicy available.
 This dataset is available via Globus Transfer or HTTPS.
-[Click here](https://app.globus.org/file-manager?origin_id=527fe9c0-5782-4a2a-a097-ea2f06fe68aba&origin_path=/public/BOUNDEDNESS285/) to view the files in the Globus web app.
+[Click here](https://app.globus.org/file-manager?origin_id=527fe9c0-5782-4a2a-a097-ea2f06fe68ab&origin_path=/public/BOUNDEDNESS285/) to view the files in the Globus web app.
 
 
 ## Files
