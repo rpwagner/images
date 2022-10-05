@@ -20,9 +20,9 @@ This site represents the catalog, with metadata about the catalog
 itself and the datasets in the repository. The catalog is completely
 public while the datasets are grouped into three levels of access:
 
-- Public
-- Accept Terms & Conditions (All Users)
-- Moderated Access (Restricted)
+- [Public](#public-access)
+- [Accept Terms & Conditions (All Users)](#accept-terms--conditions-register)
+- [Moderated Access (Restricted)](#moderated-access-restricted)
 
 ### Public Access
 
