@@ -3,6 +3,8 @@ title: "(Mock) MAGA679S"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-08-29T04:35:39.938612"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

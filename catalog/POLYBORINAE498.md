@@ -3,6 +3,8 @@ title: "(Mock) POLYBORINAE498S"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-08-24T22:45:32.522276"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

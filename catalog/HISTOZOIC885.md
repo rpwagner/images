@@ -3,6 +3,8 @@ title: "(Mock) HISTOZOIC885G"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-14T02:09:15.691932"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

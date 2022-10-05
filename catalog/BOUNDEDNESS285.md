@@ -3,6 +3,8 @@ title: "(Mock) BOUNDEDNESS285G"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-08-30T03:17:24.767050"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

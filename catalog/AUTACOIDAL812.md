@@ -3,6 +3,8 @@ title: "(Mock) AUTACOIDAL812S"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-11T18:08:32.086623"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

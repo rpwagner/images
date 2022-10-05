@@ -3,6 +3,8 @@ title: "(Mock) NONMUCILAGINOUS197C"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-03T22:43:22.229734"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

@@ -3,6 +3,8 @@ title: "(Mock) PRONENESS405F"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-06T15:37:30.617672"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

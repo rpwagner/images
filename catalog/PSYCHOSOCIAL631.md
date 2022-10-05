@@ -3,6 +3,8 @@ title: "(Mock) PSYCHOSOCIAL631N"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-08-24T21:31:26.626638"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

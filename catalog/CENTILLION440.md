@@ -3,6 +3,8 @@ title: "(Mock) CENTILLION440W"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-12T04:57:40.727875"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

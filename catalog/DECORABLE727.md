@@ -3,6 +3,8 @@ title: "(Mock) DECORABLE727P"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-06T06:07:33.498332"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)

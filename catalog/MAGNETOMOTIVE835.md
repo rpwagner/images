@@ -3,6 +3,8 @@ title: "(Mock) MAGNETOMOTIVE835Q"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-06T09:18:32.431044"
+seo:
+  type: Dataset
 ---
 
 [Back to catalog](../#datasets)
