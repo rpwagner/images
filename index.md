@@ -51,19 +51,19 @@ datasets through pull requests.
 	</td>
 	<td>
 		<img
-	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png"
+	src="https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png"
 	alt="random image" width="200"/> 
 	</td>
 </tr>
 <tr>
 <td>
 	<img
-	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png"
+	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-Gleditsia.png"
 	alt="random image" width="200"/> 
 	</td>
 	<td>
 	<img
-	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png"
+	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png"
 	alt="random image" width="200"/> 
 	</td>
 	</tr>
