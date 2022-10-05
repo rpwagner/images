@@ -1,7 +1,9 @@
 [Browse the catalog](#datasets)
 
 The Serverless Image Data Repository contains datasets of
-randomly-generated images.
+randomly-generated images. 
+
+(The names of the datasets and images are also random.)
 
 ## Examples
 
@@ -93,13 +95,13 @@ datasets through pull requests.
 | Access | Name |  Creator | Created | Number of Files |
 | Public |  [(Mock) BOUNDEDNESS285G](BOUNDEDNESS285.html)   | Rick Wagner | 2022-08-30 | 28 |
 | Public |  [(Mock) PRONENESS405F](PRONENESS405.html)   | Rick Wagner | 2022-09-06 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) NONMUCILAGINOUS197C](NONMUCILAGINOUS197.html)   |  Rick Wagner | 2022-09-03 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) ORLEWISE861S](ORLEWISE861.html)   | Rick Wagner | 2022-09-08 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) PSYCHOSOCIAL631N](PSYCHOSOCIAL631.html)   | Rick Wagner | 2022-08-24 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) CENTILLION440W](CENTILLION440.html)   | Rick Wagner | 2022-09-12 | 28 |
-| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) MAGA679S](MAGA679.html)   | Rick Wagner | 2022-08-29 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) POLYBORINAE498S](POLYBORINAE498.html)   | Rick Wagner | 2022-08-24 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) AUTACOIDAL812S](AUTACOIDAL812.html)   | Rick Wagner | 2022-09-11 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) MAGNETOMOTIVE835Q](MAGNETOMOTIVE835.html)   | Rick Wagner | 2022-09-06 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) DECORABLE727P](DECORABLE727.html)   | Rick Wagner | 2022-09-06 | 28 |
-| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) HISTOZOIC885G](HISTOZOIC885.html)   | Rick Wagner | 2022-09-14 | 28 |
+| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) NONMUCILAGINOUS197C](catalog/NONMUCILAGINOUS197.html)   |  Rick Wagner | 2022-09-03 | 28 |
+| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) ORLEWISE861S](catalog/ORLEWISE861.html)   | Rick Wagner | 2022-09-08 | 28 |
+| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) PSYCHOSOCIAL631N](catalog/PSYCHOSOCIAL631.html)   | Rick Wagner | 2022-08-24 | 28 |
+| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) CENTILLION440W](catalog/CENTILLION440.html)   | Rick Wagner | 2022-09-12 | 28 |
+| [All Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join) |  [(Mock) MAGA679S](catalog/MAGA679.html)   | Rick Wagner | 2022-08-29 | 28 |
+| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) POLYBORINAE498S](catalog/POLYBORINAE498.html)   | Rick Wagner | 2022-08-24 | 28 |
+| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) AUTACOIDAL812S](catalog/AUTACOIDAL812.html)   | Rick Wagner | 2022-09-11 | 28 |
+| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) MAGNETOMOTIVE835Q](catalog/MAGNETOMOTIVE835.html)   | Rick Wagner | 2022-09-06 | 28 |
+| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) DECORABLE727P](catalog/DECORABLE727.html)   | Rick Wagner | 2022-09-06 | 28 |
+| [Restricted](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join) |  [(Mock) HISTOZOIC885G](catalog/HISTOZOIC885.html)   | Rick Wagner | 2022-09-14 | 28 |
