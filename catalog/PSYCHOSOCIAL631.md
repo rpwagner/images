@@ -4,6 +4,9 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-08-24T21:31:26.626638"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) PSYCHOSOCIAL631N
 - Identifier: PSYCHOSOCIAL631
 - Creator: Rick Wagner
@@ -64,5 +67,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![mimmoud-discordance.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/mimmoud-discordance.png) ![mimmoud-parachromophoric.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/mimmoud-parachromophoric.png) ![mimmoud-tetricity.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/mimmoud-tetricity.png) ![mimmoud-injustice.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/mimmoud-injustice.png) ![spewing-ventroaxillary.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/spewing-ventroaxillary.png) ![spewing-expiry.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/spewing-expiry.png) ![spewing-aftosa.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/spewing-aftosa.png) ![spewing-beholder.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/spewing-beholder.png) ![Dunlap-rhymemaking.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/Dunlap-rhymemaking.png) ![Dunlap-triphenyl.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/Dunlap-triphenyl.png) ![Dunlap-divergingly.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/Dunlap-divergingly.png) ![Dunlap-thouse.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/Dunlap-thouse.png) ![palladium-groat.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/palladium-groat.png) ![palladium-holm.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/palladium-holm.png) ![palladium-crebricostate.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/palladium-crebricostate.png) ![palladium-forestaysail.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/palladium-forestaysail.png) ![nonsiccative-novative.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/nonsiccative-novative.png) ![nonsiccative-interfilar.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/nonsiccative-interfilar.png) ![nonsiccative-stephanic.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/nonsiccative-stephanic.png) ![nonsiccative-poppycock.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/nonsiccative-poppycock.png) ![anglewing-wolfkin.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/anglewing-wolfkin.png) ![anglewing-expansive.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/anglewing-expansive.png) ![anglewing-tremandraceous.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/anglewing-tremandraceous.png) ![anglewing-choya.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/PSYCHOSOCIAL631/anglewing-choya.png) 
 
-[Back to catalog](../#datasets)
+
 

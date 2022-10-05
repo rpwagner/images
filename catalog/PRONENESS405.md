@@ -4,7 +4,11 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-06T15:37:30.617672"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) PRONENESS405F
+
 - Identifier: PRONENESS405
 - Creator: Rick Wagner
 - Publisher: UCSD
@@ -61,5 +65,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![turbosupercharger-arthrodiran.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/turbosupercharger-arthrodiran.png) ![turbosupercharger-emanationist.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/turbosupercharger-emanationist.png) ![turbosupercharger-addax.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/turbosupercharger-addax.png) ![turbosupercharger-vier.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/turbosupercharger-vier.png) ![unsayable-proscapular.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/unsayable-proscapular.png) ![unsayable-pigfoot.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/unsayable-pigfoot.png) ![unsayable-prorate.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/unsayable-prorate.png) ![unsayable-furnitureless.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/unsayable-furnitureless.png) ![qualifiedly-orange.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-orange.png) ![qualifiedly-unlandmarked.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-unlandmarked.png) ![qualifiedly-borolanite.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-borolanite.png) ![qualifiedly-stickiness.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png) ![defensible-palmitone.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/defensible-palmitone.png) ![defensible-urticate.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/defensible-urticate.png) ![defensible-dilate.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/defensible-dilate.png) ![defensible-melter.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/defensible-melter.png) ![hurrock-handball.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/hurrock-handball.png) ![hurrock-subplat.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/hurrock-subplat.png) ![hurrock-epiphyseolysis.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/hurrock-epiphyseolysis.png) ![hurrock-auriculately.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/hurrock-auriculately.png) ![amyrol-contentless.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/amyrol-contentless.png) ![amyrol-pretestify.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/amyrol-pretestify.png) ![amyrol-unilobal.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/amyrol-unilobal.png) ![amyrol-medicamentation.png](https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/amyrol-medicamentation.png) 
 
-[Back to catalog](../#datasets)
+
 

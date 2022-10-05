@@ -4,7 +4,11 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-14T02:09:15.691932"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) HISTOZOIC885G
+
 - Identifier: HISTOZOIC885
 - Creator: Rick Wagner
 - Publisher: UCSD
@@ -64,5 +68,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![monophylite-homodoxian.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/monophylite-homodoxian.png) ![monophylite-Callianassa.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/monophylite-Callianassa.png) ![monophylite-unprescient.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/monophylite-unprescient.png) ![monophylite-ochletic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/monophylite-ochletic.png) ![pituitousness-soudagur.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/pituitousness-soudagur.png) ![pituitousness-spekboom.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/pituitousness-spekboom.png) ![pituitousness-aletap.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/pituitousness-aletap.png) ![pituitousness-philocathartic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/pituitousness-philocathartic.png) ![Amphicyonidae-vassalship.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/Amphicyonidae-vassalship.png) ![Amphicyonidae-veratroidine.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/Amphicyonidae-veratroidine.png) ![Amphicyonidae-Sarabaite.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/Amphicyonidae-Sarabaite.png) ![Amphicyonidae-gnawingly.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/Amphicyonidae-gnawingly.png) ![imperite-Hesionidae.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/imperite-Hesionidae.png) ![imperite-muriatic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/imperite-muriatic.png) ![imperite-neffy.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/imperite-neffy.png) ![imperite-bactericidin.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/imperite-bactericidin.png) ![vulvar-philosophistical.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/vulvar-philosophistical.png) ![vulvar-prayerfulness.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/vulvar-prayerfulness.png) ![vulvar-entomophytous.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/vulvar-entomophytous.png) ![vulvar-streakily.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/vulvar-streakily.png) ![nonenforceability-antralgia.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/nonenforceability-antralgia.png) ![nonenforceability-twanker.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/nonenforceability-twanker.png) ![nonenforceability-exocoelar.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/nonenforceability-exocoelar.png) ![nonenforceability-restiff.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/HISTOZOIC885/nonenforceability-restiff.png) 
 
-[Back to catalog](../#datasets)
+
 

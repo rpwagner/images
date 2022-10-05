@@ -4,7 +4,11 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-08-29T04:35:39.938612"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) MAGA679S
+
 - Identifier: MAGA679
 - Creator: Rick Wagner
 - Publisher: UCSD
@@ -64,5 +68,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![transformistic-divinization.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/transformistic-divinization.png) ![transformistic-renegado.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/transformistic-renegado.png) ![transformistic-cofaster.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/transformistic-cofaster.png) ![transformistic-conirostral.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/transformistic-conirostral.png) ![sanguine-gluemaking.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/sanguine-gluemaking.png) ![sanguine-basiparaplastin.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/sanguine-basiparaplastin.png) ![sanguine-interwar.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/sanguine-interwar.png) ![sanguine-melanorrhea.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/sanguine-melanorrhea.png) ![charbon-unjustled.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/charbon-unjustled.png) ![charbon-turgid.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/charbon-turgid.png) ![charbon-deforce.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/charbon-deforce.png) ![charbon-histoid.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/charbon-histoid.png) ![misconduct-proclaiming.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/misconduct-proclaiming.png) ![misconduct-unmockingly.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/misconduct-unmockingly.png) ![misconduct-Rajendra.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/misconduct-Rajendra.png) ![misconduct-systemless.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/misconduct-systemless.png) ![Herbartianism-bipyramid.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/Herbartianism-bipyramid.png) ![Herbartianism-spatialize.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/Herbartianism-spatialize.png) ![Herbartianism-incavated.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/Herbartianism-incavated.png) ![Herbartianism-otkon.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/Herbartianism-otkon.png) ![clinograph-Curucanecan.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/clinograph-Curucanecan.png) ![clinograph-anconad.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/clinograph-anconad.png) ![clinograph-mucluc.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/clinograph-mucluc.png) ![clinograph-peculiarsome.png](https://g-079c7d.ca528.03c0.data.globus.org/allusers/MAGA679/clinograph-peculiarsome.png) 
 
-[Back to catalog](../#datasets)
+
 

@@ -4,7 +4,11 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-06T06:07:33.498332"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) DECORABLE727P
+
 - Identifier: DECORABLE727
 - Creator: Rick Wagner
 - Publisher: UCSD
@@ -64,5 +68,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![unswooning-sloughy.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/unswooning-sloughy.png) ![unswooning-rivell.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/unswooning-rivell.png) ![unswooning-amil.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/unswooning-amil.png) ![unswooning-unpurpled.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/unswooning-unpurpled.png) ![inframercurian-Suerre.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inframercurian-Suerre.png) ![inframercurian-undeceitful.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inframercurian-undeceitful.png) ![inframercurian-aurochs.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inframercurian-aurochs.png) ![inframercurian-galvanization.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inframercurian-galvanization.png) ![wallpapering-unpedestal.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/wallpapering-unpedestal.png) ![wallpapering-unoppressive.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/wallpapering-unoppressive.png) ![wallpapering-Grapta.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/wallpapering-Grapta.png) ![wallpapering-meconioid.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/wallpapering-meconioid.png) ![sillyton-dilutedness.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/sillyton-dilutedness.png) ![sillyton-fluoaluminate.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/sillyton-fluoaluminate.png) ![sillyton-proctoscopic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/sillyton-proctoscopic.png) ![sillyton-gunshot.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/sillyton-gunshot.png) ![inadequately-stomatography.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inadequately-stomatography.png) ![inadequately-semiconsciousness.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inadequately-semiconsciousness.png) ![inadequately-interfactional.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inadequately-interfactional.png) ![inadequately-lemur.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/inadequately-lemur.png) ![counterirritation-idleness.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/counterirritation-idleness.png) ![counterirritation-ornoite.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/counterirritation-ornoite.png) ![counterirritation-Jacobinize.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/counterirritation-Jacobinize.png) ![counterirritation-rectigrade.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/DECORABLE727/counterirritation-rectigrade.png) 
 
-[Back to catalog](../#datasets)
+
 

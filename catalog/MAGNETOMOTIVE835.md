@@ -4,7 +4,11 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-06T09:18:32.431044"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) MAGNETOMOTIVE835Q
+
 - Identifier: MAGNETOMOTIVE835
 - Creator: Rick Wagner
 - Publisher: UCSD
@@ -64,5 +68,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![smoorich-immew.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/smoorich-immew.png) ![smoorich-beduke.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/smoorich-beduke.png) ![smoorich-Lutianus.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/smoorich-Lutianus.png) ![smoorich-elver.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/smoorich-elver.png) ![Bogomilian-incognizance.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/Bogomilian-incognizance.png) ![Bogomilian-parasitologist.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/Bogomilian-parasitologist.png) ![Bogomilian-bronze.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/Bogomilian-bronze.png) ![Bogomilian-metochy.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/Bogomilian-metochy.png) ![persecutrix-cosmicality.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/persecutrix-cosmicality.png) ![persecutrix-alcoholytic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/persecutrix-alcoholytic.png) ![persecutrix-broody.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/persecutrix-broody.png) ![persecutrix-tearlessly.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/persecutrix-tearlessly.png) ![nonelopement-clangful.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/nonelopement-clangful.png) ![nonelopement-exogenetic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/nonelopement-exogenetic.png) ![nonelopement-enterochirurgia.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/nonelopement-enterochirurgia.png) ![nonelopement-saddlenose.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/nonelopement-saddlenose.png) ![leaflessness-acanthopomatous.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/leaflessness-acanthopomatous.png) ![leaflessness-briskness.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/leaflessness-briskness.png) ![leaflessness-transire.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/leaflessness-transire.png) ![leaflessness-ancistrocladaceous.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/leaflessness-ancistrocladaceous.png) ![enthusiastic-Pyramidalism.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/enthusiastic-Pyramidalism.png) ![enthusiastic-overrigorous.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/enthusiastic-overrigorous.png) ![enthusiastic-atis.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/enthusiastic-atis.png) ![enthusiastic-jedding.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/MAGNETOMOTIVE835/enthusiastic-jedding.png) 
 
-[Back to catalog](../#datasets)
+
 

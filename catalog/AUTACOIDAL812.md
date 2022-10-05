@@ -4,7 +4,11 @@ author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-11T18:08:32.086623"
 ---
+
+[Back to catalog](../#datasets)
+
 # Dataset: (Mock) AUTACOIDAL812S
+
 - Identifier: AUTACOIDAL812
 - Creator: Rick Wagner
 - Publisher: UCSD
@@ -64,5 +68,5 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Images
 ![starchroot-quickset.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/starchroot-quickset.png) ![starchroot-rassle.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/starchroot-rassle.png) ![starchroot-appliably.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/starchroot-appliably.png) ![starchroot-monoprionid.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/starchroot-monoprionid.png) ![ultraterrene-chloridize.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/ultraterrene-chloridize.png) ![ultraterrene-dishearteningly.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/ultraterrene-dishearteningly.png) ![ultraterrene-unwreathe.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/ultraterrene-unwreathe.png) ![ultraterrene-saccharogenic.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/ultraterrene-saccharogenic.png) ![pancreozymin-absorptivity.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/pancreozymin-absorptivity.png) ![pancreozymin-Selung.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/pancreozymin-Selung.png) ![pancreozymin-abey.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/pancreozymin-abey.png) ![pancreozymin-Margarelon.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/pancreozymin-Margarelon.png) ![centaurus-sportfully.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/centaurus-sportfully.png) ![centaurus-meninting.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/centaurus-meninting.png) ![centaurus-chondrogenesis.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/centaurus-chondrogenesis.png) ![centaurus-Sifatite.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/centaurus-Sifatite.png) ![nondesecration-Daedalist.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/nondesecration-Daedalist.png) ![nondesecration-cicerone.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/nondesecration-cicerone.png) ![nondesecration-nonradical.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/nondesecration-nonradical.png) ![nondesecration-beauism.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/nondesecration-beauism.png) ![disgorgement-federatively.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/disgorgement-federatively.png) ![disgorgement-alabaster.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/disgorgement-alabaster.png) ![disgorgement-Manetti.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/disgorgement-Manetti.png) ![disgorgement-undutiful.png](https://g-079c7d.ca528.03c0.data.globus.org/restricted/AUTACOIDAL812/disgorgement-undutiful.png) 
 
-[Back to catalog](../#datasets)
+
 
