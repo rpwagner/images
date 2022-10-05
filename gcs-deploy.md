@@ -162,5 +162,5 @@ https://g-b0978f.0ed28.75bc.data.globus.org/serverless/
 
 Alternate
 ```
-https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png
+https://g-079c7d.ca528.03c0.data.globus.org/
 ```

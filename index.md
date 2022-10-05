@@ -46,7 +46,7 @@ datasets through pull requests.
 <table>
 	<tr>
 	<td>
-		<img src="https://g-b0978f.0ed28.75bc.data.globus.org/public/unostentation-exhalation.png"
+		<img src="https://g-079c7d.ca528.03c0.data.globus.org/public/unostentation-exhalation.png"
 		alt="random image" width="200"/> 
 	</td>
 	<td>
