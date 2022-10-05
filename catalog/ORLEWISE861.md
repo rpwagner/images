@@ -3,6 +3,12 @@ title: "(Mock) ORLEWISE861S"
 author: "Rick Wagner"
 description: "A few random images as a dataset"
 date_created: "2022-09-08T10:24:28.308446"
+schemaorg:
+  "@context": https://schema.org/
+  "@type": Dataset
+  name: "(Mock) ORLEWISE861S"
+  author: "Rick Wagner"
+  description: "A set of random images with incomplete metadata."
 ---
 
 [Back to catalog](../#datasets)
