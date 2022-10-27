@@ -10,24 +10,24 @@ randomly-generated images.
 <table>
 	<tr>
 	<td>
-		<img src="https://g-079c7d.ca528.03c0.data.globus.org/public/unostentation-exhalation.png"
+		<img src="https://g-062a3c.0ed28.75bc.data.globus.org/public/PRONENESS405/turbosupercharger-emanationist.png"
 		alt="random image" width="200"/> 
 	</td>
 	<td>
 		<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png"
+	src="https://g-062a3c.0ed28.75bc.data.globus.org/public/PRONENESS405/qualifiedly-stickiness.png"
 	alt="random image" width="200"/> 
 	</td>
 </tr>
 <tr>
 <td>
 	<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-Gleditsia.png"
+	src="https://g-062a3c.0ed28.75bc.data.globus.org/public/BOUNDEDNESS285/beveil-Gleditsia.png"
 	alt="random image" width="200"/> 
 	</td>
 	<td>
 	<img
-	src="https://g-079c7d.ca528.03c0.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png"
+	src="https://g-062a3c.0ed28.75bc.data.globus.org/public/BOUNDEDNESS285/beveil-anapaestical.png"
 	alt="random image" width="200"/> 
 	</td>
 	</tr>
@@ -38,7 +38,7 @@ randomly-generated images.
 This repository demonstrates how to host dataset files in Globus collections while
 providing a publicly available site for data discovery. [Here are the
 notes](gcs-deploy.html) on setting up the Globus Connect Server and
-[Guest Collection](https://app.globus.org/file-manager?origin_id=527fe9c0-5782-4a2a-a097-ea2f06fe68ab&origin_path=%2F).
+[Guest Collection](https://app.globus.org/file-manager?origin_id=385d3079-5121-40bc-a52f-055296497631&origin_path=%2F).
 
 The site is
 hosted using [GitHub Pages](https://pages.github.com) a free service
